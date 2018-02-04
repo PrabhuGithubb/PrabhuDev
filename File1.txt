@@ -6,9 +6,7 @@ So let me see how this goes
 
 
 New line from Test region
-New line from Test region
-New line from Test region
-New line from Test region
-New line from Test region
-New line from Test region
-New line from Test region
+
+int a = 0;
+
+a = a+1;
